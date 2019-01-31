@@ -1,0 +1,7 @@
+1) What is a Scala Map?
+
+A Map in Scala is a collection of key-value pairs, and is also called a hash table. The default Scala Map is immutable. To use a mutable Map, we use the scala.collection.mutable.Map class. Scala Map is a collection of key value pairs wherein the value in a map can be retrieved using the key. Values in a Scala Map are not unique but the keys are unique. Scala supports two kinds of maps- mutable and immutable. By default, Scala supports immutable map and to make use of the mutable map, programmers have to import the scala.collection.mutable
+
+
+
+ 
